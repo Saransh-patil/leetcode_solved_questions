@@ -12,5 +12,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0175-combine-two-tables) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
