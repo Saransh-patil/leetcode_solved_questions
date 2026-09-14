@@ -5,17 +5,12 @@ class Solution(object):
         :type word2: str
         :rtype: str
         """
-        listt=[]
-        t=(word1)
-        t2=(word2)
-        if len(t)>len(t2):
-            temp=t
+        char=""
+        for i,j in zip(word1,word2):
+            char+=i
+            char+=j
+        if len(word1)>len(word2):
+            char+=word1[len(word2):]
         else:
-            temp=t2
-        for i in range(len(temp)):
-            if len(t)>i:
-                listt.append(t[i])
-            if len(t2)>i:
-                listt.append(t2[i])
-        return "".join(listt)
-
+            char+=word2[len(word1):]
+        return char
