@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1672-richest-customer-wealth) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Binary Search
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
