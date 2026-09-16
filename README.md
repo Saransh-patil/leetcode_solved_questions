@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0013-roman-to-integer) |
+| [0389-find-the-difference](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0389-find-the-difference) |
 | [0696-count-binary-substrings](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0696-count-binary-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1768-merge-strings-alternately) |
 | [2315-count-asterisks](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2315-count-asterisks) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0013-roman-to-integer) |
+| [0389-find-the-difference](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0389-find-the-difference) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
 |  |
@@ -41,9 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0905-sort-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
