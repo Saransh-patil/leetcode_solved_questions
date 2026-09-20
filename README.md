@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0013-roman-to-integer) |
+| [2544-alternating-digit-sum](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2544-alternating-digit-sum) |
 ## Array
 |  |
 | ------- |
