@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0500-keyboard-row) |
 | [0696-count-binary-substrings](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0696-count-binary-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1768-merge-strings-alternately) |
+| [1844-replace-all-digits-with-characters](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1844-replace-all-digits-with-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2315-count-asterisks](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2315-count-asterisks) |
 | [2810-faulty-keyboard](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2810-faulty-keyboard) |
