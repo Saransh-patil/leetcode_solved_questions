@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1768-merge-strings-alternately) |
+| [3794-reverse-string-prefix](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3794-reverse-string-prefix) |
 ## Database
 |  |
 | ------- |
