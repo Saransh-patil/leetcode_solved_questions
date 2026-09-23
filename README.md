@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0566-reshape-the-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0905-sort-array-by-parity) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1672-richest-customer-wealth) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0566-reshape-the-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2643-row-with-maximum-ones) |
 ## Sorting
