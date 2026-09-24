@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0766-toeplitz-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0905-sort-array-by-parity) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1572-matrix-diagonal-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2643-row-with-maximum-ones) |
