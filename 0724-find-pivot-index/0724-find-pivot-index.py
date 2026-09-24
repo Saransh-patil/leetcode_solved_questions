@@ -4,22 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        total=sum(nums)
         left=0
         for i in range(len(nums)):
-            
-            if i==0:
-                left=0
-                right=sum(list(nums[i+1:]))
-                if left==right:
-                    return i
-            elif i==len(nums)-1:
-                right=0
-                left=sum(list(nums[:i]))
-                if left==right:
-                    return i
-            else:
-                left=sum(list(nums[:i]))
-                right=sum(list(nums[i+1:]))
-                if left==right:
-                    return i
+            right=total-left-nums[i]
+            if left==right:
+                return i
+            left+=nums[i]
         return -1
