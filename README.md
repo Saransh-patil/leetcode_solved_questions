@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1757-recyclable-and-low-fat-products) |
+| [3436-find-valid-emails](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3436-find-valid-emails) |
 ## Hash Table
 |  |
 | ------- |
