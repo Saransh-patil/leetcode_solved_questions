@@ -152,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0204-count-primes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
