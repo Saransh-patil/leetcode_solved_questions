@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0696-count-binary-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1844-replace-all-digits-with-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2315-count-asterisks](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2315-count-asterisks) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0500-keyboard-row) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Math
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1672-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2553-separate-the-digits-in-an-array) |
