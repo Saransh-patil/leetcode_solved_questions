@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1768-merge-strings-alternately) |
+| [2396-strictly-palindromic-number](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3794-reverse-string-prefix) |
 ## String
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0204-count-primes) |
 | [0910-smallest-range-ii](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0910-smallest-range-ii) |
+| [2396-strictly-palindromic-number](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2396-strictly-palindromic-number) |
 | [2544-alternating-digit-sum](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2544-alternating-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
