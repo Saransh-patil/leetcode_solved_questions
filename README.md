@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0696-count-binary-substrings) |
 | [0856-score-of-parentheses](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1768-merge-strings-alternately) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0134-gas-station) |
 | [0910-smallest-range-ii](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0910-smallest-range-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3174-clear-digits) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
