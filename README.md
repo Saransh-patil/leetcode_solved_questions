@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0575-distribute-candies) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0204-count-primes) |
 | [0500-keyboard-row](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0766-toeplitz-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0905-sort-array-by-parity) |
