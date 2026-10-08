@@ -6,4 +6,3 @@ class Solution(object):
         """
         unique_types = len(set(candyType))   # count unique candies
         return min(unique_types, len(candyType) // 2)
-        
