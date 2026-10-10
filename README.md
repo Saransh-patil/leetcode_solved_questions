@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1844-replace-all-digits-with-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2315-count-asterisks](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2315-count-asterisks) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2540-minimum-common-value](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
 ## Math
