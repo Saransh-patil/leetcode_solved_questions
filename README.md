@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2540-minimum-common-value](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2643-row-with-maximum-ones) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3925-concatenate-array-with-reverse](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
@@ -224,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2396-strictly-palindromic-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
