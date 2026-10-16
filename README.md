@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0134-gas-station](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0134-gas-station) |
 | [0204-count-primes](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0204-count-primes) |
 | [0500-keyboard-row](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0500-keyboard-row) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
 ## Greedy
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
