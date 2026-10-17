@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0263-ugly-number) |
 | [0910-smallest-range-ii](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0910-smallest-range-ii) |
 | [2396-strictly-palindromic-number](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2396-strictly-palindromic-number) |
 | [2544-alternating-digit-sum](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2544-alternating-digit-sum) |
