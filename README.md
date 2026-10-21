@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2315-count-asterisks](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2315-count-asterisks) |
 | [2810-faulty-keyboard](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2810-faulty-keyboard) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3174-clear-digits) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2643-row-with-maximum-ones) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2942-find-words-containing-character) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
