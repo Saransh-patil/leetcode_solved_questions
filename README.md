@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3794-reverse-string-prefix](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3794-reverse-string-prefix) |
+| [3894-traffic-signal-color](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3894-traffic-signal-color) |
 ## Database
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2396-strictly-palindromic-number) |
 | [2544-alternating-digit-sum](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2544-alternating-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3894-traffic-signal-color](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3894-traffic-signal-color) |
 ## Array
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3498-reverse-degree-of-a-string) |
+| [3894-traffic-signal-color](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Stack
 |  |
