@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0696-count-binary-substrings) |
 | [0856-score-of-parentheses](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1002-find-common-characters](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1002-find-common-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0575-distribute-candies) |
+| [1002-find-common-characters](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1002-find-common-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0766-toeplitz-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0910-smallest-range-ii) |
+| [1002-find-common-characters](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1002-find-common-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1534-count-good-triplets](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1572-matrix-diagonal-sum) |
