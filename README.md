@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0910-smallest-range-ii) |
 | [1002-find-common-characters](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1002-find-common-characters) |
+| [1051-height-checker](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1051-height-checker) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1534-count-good-triplets](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1572-matrix-diagonal-sum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0910-smallest-range-ii) |
+| [1051-height-checker](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1051-height-checker) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
 |  |
@@ -267,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0004-median-of-two-sorted-arrays) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
