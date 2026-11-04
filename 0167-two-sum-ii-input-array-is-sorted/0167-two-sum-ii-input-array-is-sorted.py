@@ -13,7 +13,6 @@ class Solution(object):
                 a,b=i+1,j+1
                 res.append(a)
                 res.append(b)
-            
                 return res
 
             elif numbers[i]+numbers[j]>=target:
