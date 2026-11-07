@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2315-count-asterisks](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2315-count-asterisks) |
+| [2418-sort-the-people](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2418-sort-the-people) |
 | [2810-faulty-keyboard](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2942-find-words-containing-character) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2418-sort-the-people](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0910-smallest-range-ii) |
 | [1051-height-checker](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1051-height-checker) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2418-sort-the-people](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
 | ------- |
