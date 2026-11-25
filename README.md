@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2315-count-asterisks](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2315-count-asterisks) |
 | [2418-sort-the-people](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2418-sort-the-people) |
 | [2810-faulty-keyboard](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2810-faulty-keyboard) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2418-sort-the-people](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/1534-count-good-triplets) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Saransh-patil/leetcode_solved_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
